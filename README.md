@@ -20,6 +20,4 @@
 -Nutrition, Physical Activity, and Obesity - BRFSS
 -Public health dataset tracking health behaviors across U.S. states over time.
 
-GROUP PROJECT:
 
-The group project was a website redesign where 
